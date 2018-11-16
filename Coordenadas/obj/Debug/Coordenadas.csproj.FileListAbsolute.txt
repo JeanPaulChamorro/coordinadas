@@ -1,0 +1,12 @@
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe.config
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.pdb
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.csprojResolveAssemblyReference.cache
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.exe
+H:\6to ciclo\aplicaaiones moviles\semana03\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.pdb
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe.config
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.exe
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.pdb
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\bin\Debug\Coordenadas.pdb
+H:\6to ciclo\aplicaaiones moviles\semana 05\Coordenadas\Coordenadas\Coordenadas\obj\Debug\Coordenadas.csprojResolveAssemblyReference.cache
